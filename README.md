@@ -6,7 +6,7 @@ Here is some information about me:
 - ⚡ Fun fact: I really like music and would be happy to take part in a project, connected with music
 - 🎶 Like singing 🎤, playing ukulele, piano 🎹 ([list of my currently favourite songs](https://open.spotify.com/playlist/6qMrEMIBLiJqP9qOf7Q3KA))
 - 📖 Love Belarusian language and belarusian literature
-- 📫 How to reach me: inst. @margokitaeva
+- 📫 How to reach me: inst. [@margokitaeva](https://www.instagram.com/margokitaeva/)
 - 💭 My favourite quotes:
     > Be a lover, choose love, give love. Love everyone, always. © _Harry Styles_
     

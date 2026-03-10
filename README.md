@@ -1,6 +1,6 @@
 # Hi, I'm Margarita
 
-I'm a Computer Science and Intelligent Systems student at AGH University of Science and Technology interested in frontend development.
+I'm a Computer Science and Intelligent Systems student at AGH University of Science and Technology, interested in software engineering and building practical applications.
 
 Currently, I work on academic and personal projects using:
 - React
@@ -10,16 +10,21 @@ Currently, I work on academic and personal projects using:
 - Redux Toolkit
 - React Router
 - Vite
+- Java
+- C#
+- Python
 
-I'm especially interested in building user interfaces, frontend logic, and web applications with clear structure and practical functionality.
+I'm especially interested in designing clear application logic, building user interfaces, and developing structured, practical software solutions.
 
 ## Projects
-- [**SoulNotes**](https://github.com/Margokitaeva/SoulNotes) — mood diary web application built with React and Vite
-- [**SentenceBuilder**](https://github.com/Margokitaeva/SentenceBuilder) — educational React application for sentence construction
-- [**FlowerShop**](https://github.com/Margokitaeva/FlowerShop) — multi-page frontend website built with HTML, SCSS, and JavaScript
+- [**SoulNotes**](https://github.com/Margokitaeva/SoulNotes) - mood diary web application built with React and Vite
+- [**Soulnotes_aspnet-mvc**](https://github.com/Margokitaeva/Soulnotes_aspnet-mvc) - mood diary web application and console application built with ASP.NET MVC and SQLite
+- [**SentenceBuilder**](https://github.com/Margokitaeva/SentenceBuilder) - educational React application for sentence construction
+- [**FlowerShop**](https://github.com/Margokitaeva/FlowerShop) - multi-page frontend website built with HTML, SCSS, and JavaScript
+- [**NoteScript**](https://github.com/Margokitaeva/NoteScript) - custom programming language and interpreter project built with Python and ANTLR
 
 ## Currently looking for
-A frontend internship where I can gain practical experience and continue developing my skills.
+An internship in software engineering or frontend development where I can gain practical experience and continue developing my skills.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/margarita-kitaeva-378b1b3b5/)

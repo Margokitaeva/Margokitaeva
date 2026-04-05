@@ -24,7 +24,7 @@ I'm especially interested in designing clear application logic, building user in
 - [**NoteScript**](https://github.com/Margokitaeva/NoteScript) - custom programming language and interpreter project built with Python and ANTLR
 
 ## Currently looking for
-An internship in software engineering or frontend development where I can gain practical experience and continue developing my skills.
+Looking for a software engineering or full-stack development internship where I can gain practical experience, work on real-world applications, and continue developing my skills.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/margarita-kitaeva-378b1b3b5/)

@@ -19,6 +19,7 @@ I'm especially interested in designing clear application logic, building user in
 ## Projects
 - [**SoulNotes**](https://github.com/Margokitaeva/SoulNotes) - mood diary web application built with React and Vite
 - [**Soulnotes_aspnet-mvc**](https://github.com/Margokitaeva/Soulnotes_aspnet-mvc) - mood diary web application and console application built with ASP.NET MVC and SQLite
+- [**Stock Market Simulator**]() - backend service built with Java, Spring Boot, PostgreSQL, and Docker
 - [**SentenceBuilder**](https://github.com/Margokitaeva/SentenceBuilder) - educational React application for sentence construction
 - [**FlowerShop**](https://github.com/Margokitaeva/FlowerShop) - multi-page frontend website built with HTML, SCSS, and JavaScript
 - [**NoteScript**](https://github.com/Margokitaeva/NoteScript) - custom programming language and interpreter project built with Python and ANTLR
